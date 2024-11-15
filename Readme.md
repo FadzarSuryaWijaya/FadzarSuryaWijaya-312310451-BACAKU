@@ -210,4 +210,4 @@ Klik tombol "Run" (⇧+F10) atau "Debug" (⇧+F9)
 ## Lisensi
 <p font face="Times New Roman">All associated resources are licensed under the [MIT License](https://mit-license.org/).</p>
 
-## Finished! 🎉
+# Finished! 🎉
