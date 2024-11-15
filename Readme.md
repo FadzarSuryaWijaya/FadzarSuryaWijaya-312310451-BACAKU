@@ -202,9 +202,9 @@ Klik tombol "Run" (⇧+F10) atau "Debug" (⇧+F9)
 ---
 
 ## Kredit
-***Dibuat oleh Fadzar Surya Wijaya<br>
-***TI 23 A.5 (312310451)<br>
-***Universitas Pelita Bangsa
+**Dibuat oleh Fadzar Surya Wijaya**<br>
+**TI 23 A.5 (312310451)**<br>
+**Universitas Pelita Bangsa**
 
 ---
 
