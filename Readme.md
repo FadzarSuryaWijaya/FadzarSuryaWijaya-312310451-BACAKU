@@ -203,10 +203,11 @@ Klik tombol "Run" (⇧+F10) atau "Debug" (⇧+F9)
 
 ## Kredit
 ***Dibuat oleh Fadzar Surya Wijaya***<br>
-**TI.23.A5 (312310451)**<br>
-**Universitas Pelita Bangsa**
+***TI.23.A5 (312310451)***<br>
+***Universitas Pelita Bangsa***
 
----
 
 ## Lisensi
 <p font face="Times New Roman">All associated resources are licensed under the [MIT License](https://mit-license.org/).</p>
+
+## Finished! 🎉
