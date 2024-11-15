@@ -1,26 +1,12 @@
 # UTS - Pertemuan ke 8
 # Tugas Pertemuan ke 8 { UTS }
 
-| **Nama**            		| 
-| ----------------------------- |
-| Fadzar Surya Wijaya 		|	 
-| ----------------------------- |
-| **NIM**             		|
-| ----------------------------- |
-| 312310451           		|
-| ----------------------------- |
-| **Kelas**           		|
-| ----------------------------- |
-| TI.23.A5            		|
-| ----------------------------- |
-| **Mata Kuliah**     		|
-| ----------------------------- |
-| Pemograman Mobile 1 		|
-| ----------------------------- |
-| **Dosen Pengampu**  		|
-| ----------------------------- |
-| Donny Maulana, S.Kom., M.M.S.I|
-| ------------------------------|
+| **Nama**                    | Fadzar Surya Wijaya             |
+|----------------------------|--------------------------------|
+| **NIM**                    | 312310451                      |
+| **Kelas**                  | TI.23.A5                       |
+| **Mata Kuliah**            | Pemograman Mobile 1            |
+| **Dosen Pengampu**         | Donny Maulana, S.Kom., M.M.S.I |
 
 
 # BACAKU ![Logo](img/logobacaku-white.png)
