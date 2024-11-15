@@ -9,7 +9,7 @@
 | **Dosen Pengampu**         | Donny Maulana, S.Kom., M.M.S.I |
 
 
-# <img src="img/logobacaku-white.png" height="70" alt="Logo"> ***BACAKU***
+# ***BACAKU*** ```<img src="img/logobacaku-white.png" height="70" alt="Logo">```
 ### Platform Membaca Digital dengan Sistem Koin Pintar
 
 ![Versi](https://img.shields.io/badge/versi-1.0.0-blue.svg)
