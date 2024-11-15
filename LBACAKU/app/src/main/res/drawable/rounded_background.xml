@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/rounded_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Set warna background -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Atur sudut membulat -->
+    <corners android:radius="16dp" />
+
+    <!-- Tambahkan border biru di sekitar kotak -->
+    <stroke
+        android:width="2dp"
+        android:color="#2196F3" /> <!-- Ganti dengan kode warna yang diinginkan -->
+</shape>
+
