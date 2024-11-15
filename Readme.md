@@ -145,7 +145,7 @@ git clone https://github.com/FadzarSuryaWijaya/UTS-PemogramanMobile1
 ```bash
 Buka Android Studio
 Pilih "Open an Existing Project"
-Arahkan ke direktori project ```LBACAKU```
+Arahkan ke direktori project LBACAKU
 Tunggu proses indexing dan sync Gradle selesai
 ```
 
