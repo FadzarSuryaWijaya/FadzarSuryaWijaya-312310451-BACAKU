@@ -87,9 +87,9 @@ Bacaku adalah platform membaca digital inovatif yang merevolusi pengalaman memba
 - Menerapkan pola desain responsif
 
 ## Mockup dan StoryBoard
-### 1. Story Board
 ### Mockup
 ![Mockup](img/1.png)
+### Story Board
 ![Storyboard](img/2.png)
 ***Signin & Signup*** :<br>
 •	Sign In Screen: Pengguna memasukkan email dan password, kemudian klik tombol "Sign In" untuk masuk ke aplikasi.<br>
