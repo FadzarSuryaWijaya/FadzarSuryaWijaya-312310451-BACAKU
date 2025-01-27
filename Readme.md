@@ -7,37 +7,68 @@
 | **Kelas**                  | TI.23.A5                       |
 | **Mata Kuliah**            | Pemograman Mobile 1            |
 | **Dosen Pengampu**         | Donny Maulana, S.Kom., M.M.S.I |
-
+<br>
 
 # ***BACAKU*** <img src="img/logobacaku-white.png" height="70" alt="Logo">
-### Platform Membaca Digital dengan Sistem Koin Pintar
+### Digital Reading Platform
 
 ![Versi](https://img.shields.io/badge/versi-1.0.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-pengembangan-yellow.svg)
 
-## Daftar Isi
-1. [Pendahuluan](#pendahuluan)
-2. [Overview](#Apps)
-3. [kredit](#kredit)
+## Contents
+1. [Overview](#overview)
+2. [Demo Video](#demo)
+3. [Screenshots](#screenshots)
+4. [Credit](#credit)
 
-## Pendahuluan
-Bacaku adalah platform membaca digital inovatif yang merevolusi pengalaman membaca ebook 
+# Overview
+### Bacaku
+**Bacaku** is an open-source platform designed to digitize and simplify the process of reading books for free. It's currently under development and welcomes contributions from the community to enhance its capabilities.
 
-## Apps
-### Halaman Home
-![alttext](img/img1.jpg)
-### Halaman BookDetail
-![alttext](img/img2.jpg)
-### Halaman Reader
-![alttext](img/img3.jpg)
-
-## Kredit
-***Dibuat oleh Fadzar Surya Wijaya***<br>
-***TI.23.A5 (312310451)***<br>
-***Universitas Pelita Bangsa***
+# Demo
+<div align="center">
+  <iframe width="560" height="315" src="img/Demo Bacaku.mp4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
-## Lisensi
+### Key Features:
+- **Digital Book Storage**: Upload and store electronic books, making them accessible anytime and anywhere.
+- **User Profiles**: Each user has a profile showcasing their book collection and current reading status.
+- **Book Recommendations**: Intelligent algorithms provide book recommendations based on user interests and reading history.
+
+### Technology Stack:
+- **Backend**: PHP with MySQL for database management and API functionalities.
+- **Frontend**: User-friendly, responsive design for a seamless reading experience.
+- **Mobile**: Android application using Glide to load images and maintain user book profiles.
+</br>
+
+
+# Screenshots:
+### Home Page
+<div align="center">
+  <img src="img/img1.jpg" alt="alttext" width="200" />
+</div>
+
+### BookInformation Page
+<div align="center">
+  <img src="img/img2.jpg" alt="alttext" width="200" />
+</div>
+
+### Reader Page
+<div align="center">
+  <img src="img/img3.jpg" alt="alttext" width="200" />
+</div>
+
+
+# Credit by
+
+<i>Dibuat oleh Fadzar Surya Wijaya<i><br>
+<i>TI.23.A5 (312310451)<i><br>
+<i>Universitas Pelita Bangsa<i>
+
+## License
 <p font face="Times New Roman">All associated resources are licensed under the [MIT License](https://mit-license.org/).</p>
 
-# Finished! 🎉
+## Post Script
+Join us in advancing Bacaku, an open-source project aimed at making free book reading accessible to everyone! 🚀😊
+
