@@ -27,8 +27,11 @@
 
 # Demo
 <div align="center">
-  <iframe width="560" height="315" src="https://youtu.be/qm_6WZmAhoo" frameborder="0" allowfullscreen></iframe>
+  <video width="560" height="315" controls>
+    <source src="https://youtu.be/qm_6WZmAhoo" type="video/mp4">
+  </video>
 </div>
+
 <br>
 
 ### Key Features:
