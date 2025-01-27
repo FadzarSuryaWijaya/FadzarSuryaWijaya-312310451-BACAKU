@@ -26,10 +26,9 @@
 **Bacaku** is an open-source platform designed to digitize and simplify the process of reading books for free. It's currently under development and welcomes contributions from the community to enhance its capabilities.
 
 # Demo
-  <video width="560" height="315" controls>
-    <source src="img/DemoBacaku.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+
+https://github.com/user-attachments/assets/5e2ac237-34c6-4906-a656-49889b3ba526
+
 <br>
 
 ### Key Features:
