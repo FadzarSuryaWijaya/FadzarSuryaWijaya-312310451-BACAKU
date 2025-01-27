@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bagian atas putih -->
+    <item android:top="0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF"/>
+        </shape>
+    </item>
+    <!-- Bagian bawah biru dengan transisi melengkung -->
+    <item android:bottom="0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#ADD8E6"/>
+            <corners android:topLeftRadius="200dp" android:topRightRadius="200dp"/>
+        </shape>
+    </item>
+</layer-list>

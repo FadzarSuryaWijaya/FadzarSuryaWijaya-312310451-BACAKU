@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingEnd="5dp"
+    android:paddingStart="5dp"
+    android:orientation="vertical">
+
+    <!-- Gambar Buku -->
+    <ImageView
+        android:id="@+id/book_image"
+        android:layout_width="76dp"
+        android:layout_height="106dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="book_image" />
+
+    <!-- Judul Buku -->
+    <TextView
+        android:id="@+id/book_title"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:gravity="center"
+        android:text="Judul Buku"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black" />
+
+    <!-- Nama Penulis -->
+    <TextView
+        android:id="@+id/book_author"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:gravity="center"
+        android:text="by Author"
+        android:textSize="12sp"
+        android:textColor="@android:color/darker_gray" />
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#020FFF</color>
+    <color name="blacktext">#322F35</color>
+    <color name="signin">#2B8AE7</color>
+    <color name="gradient1">#025FC8</color>
+    <color name="gradient2">#F5F5F5</color>
+    <color name="gray">#808080</color>
+    <color name="dark_background">#1f1f1f</color>
+    <color name="primary_color">#6200EE</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="status_bar_color">#3700B3</color>
+    <color name="birumuda">#ADD8E6</color>
+    <color name="gray_text">#4f4f4f</color>
+    <color name="birutua">#2196F3</color> <!-- Primary color of the app -->
+    <color name="colorPrimaryDark">#1976D2</color> <!-- Darker shade of the primary color -->
+    <color name="colorAccent">#FF4081</color> <!-- Accent color for UI elements like buttons -->
+
+</resources>

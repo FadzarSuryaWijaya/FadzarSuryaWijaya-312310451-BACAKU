@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background white rectangle -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#ADD8E6" /> <!-- White color -->
+        </shape>
+    </item>
+    <!-- Inverted curved blue shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Blue color -->
+            <corners android:bottomLeftRadius="300dp" android:bottomRightRadius="300dp" />
+        </shape>
+    </item>
+</layer-list>
