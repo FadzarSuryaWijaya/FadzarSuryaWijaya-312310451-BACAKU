@@ -27,9 +27,11 @@
 
 # Demo
 <div align="center">
-  <iframe width="560" height="315" src="img/Demo Bacaku.mp4" frameborder="0" allowfullscreen></iframe>
+  <video width="560" height="315" controls>
+    <source src="img/Demo Bacaku.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
-
 
 ### Key Features:
 - **Digital Book Storage**: Upload and store electronic books, making them accessible anytime and anywhere.
