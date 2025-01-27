@@ -26,10 +26,7 @@
 **Bacaku** is an open-source platform designed to digitize and simplify the process of reading books for free. It's currently under development and welcomes contributions from the community to enhance its capabilities.
 
 # Demo
-
-https://github.com/user-attachments/assets/674bead5-d5e4-424d-b2d8-15890b6ee877
-
-<br>
+https://github.com/user-attachments/assets/bcdaa77c-9bd0-457e-b0ab-0f42d3003c35
 
 ### Key Features:
 - **Digital Book Storage**: Upload and store electronic books, making them accessible anytime and anywhere.
